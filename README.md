@@ -1,4 +1,5 @@
-# 💫 About Me:Skilled in designing and building modern, scalable web applications. I focus on clean code, performance optimization, and delivering seamless digital experiences.
+# 💫 About Me:
+Skilled in designing and building modern, scalable web applications. I focus on clean code, performance optimization, and delivering seamless digital experiences.
 
 
 ## 🌐 Socials:
