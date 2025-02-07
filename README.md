@@ -1,5 +1,4 @@
-# 💫 About Me:
-You are a web developer with expertise in the MERN stack (MongoDB, Express.js, React, and Node.js).
+# 💫 About Me:Skilled in designing and building modern, scalable web applications. I focus on clean code, performance optimization, and delivering seamless digital experiences.
 
 
 ## 🌐 Socials:
